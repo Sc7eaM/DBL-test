@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    
+ }
+
+ #navig-link{
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+ }
+
+ .link{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+ }
+ #logo{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    font-size: 22px;
+ }
