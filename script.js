@@ -78,6 +78,9 @@ function getData() {
 
         }
         articlePrincipal()
+
+
+        
        /// FIN DU CODE
      })
      .catch((error) => console.error('Erreur lors de la lecture des données :', error));
